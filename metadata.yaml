@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4540'
     url: http://www.gutenberg.org/2009/agents/4540
     wikipedia: https://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: archival
+  image_path: 67997-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartlett, Frederick Orin
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '9294'
     url: http://www.gutenberg.org/2009/agents/9294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67997#The-Prodigal-Pro-Tem
 gutenberg_issued: '2022-05-06'
 identifiers:
   gutenberg: '67997'
